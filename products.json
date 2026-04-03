@@ -1,0 +1,17 @@
+[
+ {
+  "name": "Mithila Paag",
+  "price": 500,
+  "image": "paag.jpg"
+ },
+ {
+  "name": "Wedding Mala",
+  "price": 300,
+  "image": "mala.jpg"
+ },
+ {
+  "name": "Puja Samagri Set",
+  "price": 700,
+  "image": "puja.jpg"
+ }
+]
